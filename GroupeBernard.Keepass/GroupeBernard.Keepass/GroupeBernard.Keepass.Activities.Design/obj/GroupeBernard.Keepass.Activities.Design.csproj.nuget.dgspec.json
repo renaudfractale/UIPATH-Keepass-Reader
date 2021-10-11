@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj": {}
+    "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj": {}
   },
   "projects": {
-    "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj": {
+    "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj",
+        "projectUniqueName": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj",
         "projectName": "GroupeBernard.Keepass.Activities",
-        "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj",
+        "projectPath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj",
         "packagesPath": "C:\\Users\\henryr\\.nuget\\packages\\",
-        "outputPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\obj\\",
+        "outputPath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\.nuget\\NuGet.Config",
+          "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\.nuget\\NuGet.Config",
           "C:\\Users\\henryr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net461": {
             "targetAlias": "net461",
             "projectReferences": {
-              "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj": {
-                "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
+              "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj": {
+                "projectPath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
                 "privateAssets": "all"
               }
             }
@@ -59,18 +59,18 @@
         }
       }
     },
-    "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj": {
+    "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
+        "projectUniqueName": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
         "projectName": "GroupeBernard.Keepass.Activities.Implementation",
-        "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
+        "projectPath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
         "packagesPath": "C:\\Users\\henryr\\.nuget\\packages\\",
-        "outputPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\obj\\",
+        "outputPath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\.nuget\\NuGet.Config",
+          "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\.nuget\\NuGet.Config",
           "C:\\Users\\henryr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,8 +88,8 @@
           "net461": {
             "targetAlias": "net461",
             "projectReferences": {
-              "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj": {
-                "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
+              "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj": {
+                "projectPath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
                 "privateAssets": "all"
               }
             }
@@ -114,18 +114,18 @@
         }
       }
     },
-    "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj": {
+    "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
+        "projectUniqueName": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
         "projectName": "GroupeBernard.Keepass",
-        "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
+        "projectPath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
         "packagesPath": "C:\\Users\\henryr\\.nuget\\packages\\",
-        "outputPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\obj\\",
+        "outputPath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\.nuget\\NuGet.Config",
+          "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\.nuget\\NuGet.Config",
           "C:\\Users\\henryr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

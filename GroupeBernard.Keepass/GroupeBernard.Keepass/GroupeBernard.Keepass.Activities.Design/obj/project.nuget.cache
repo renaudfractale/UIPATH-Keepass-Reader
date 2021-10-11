@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HhCZvAIBvgr9zXrA6CWefNG1bkOswYYpP40jilLdAbEe+7CNiZzp+h9a4TxODmNvlYFAIy6gmWV3HB6X50rGsg==",
+  "dgSpecHash": "QUoUJZbLhOPFjdF815Y0eeayDmNnu9AEtJsLO2HWkWshxsPIskqyjW8E1fBOtGs8H3sxm0VqRY/ADk5TPvTtzw==",
   "success": true,
-  "projectFilePath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj",
+  "projectFilePath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henryr\\.nuget\\packages\\keepasslib\\2.30.0\\keepasslib.2.30.0.nupkg.sha512"
   ],

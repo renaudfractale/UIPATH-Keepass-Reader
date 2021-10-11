@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CnVsnstTQfEpoH5Olv4Ndfl9HJewZSmehYvCRpbFoO+3hJYGe1Dhl8cT7n+nv9fyMdDLYiQtMdJLjx+2IJPPSg==",
+  "dgSpecHash": "QVaxtRV5YPjXxNyyIlvSd9P3M7wsuHJ/2xJgPrE7uu3krIeVlJDXAp9sqiR4umweNuQx1Iv8gnpCeclC/3vIPw==",
   "success": true,
-  "projectFilePath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
+  "projectFilePath": "C:\\RPA\\githubPublic\\UIPATH-Keepass-Reader\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
