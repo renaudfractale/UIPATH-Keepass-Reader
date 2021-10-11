@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "KeePassLib/2.30.0": {
+        "type": "package",
+        "compile": {
+          "lib/KeePassLib.dll": {}
+        },
+        "runtime": {
+          "lib/KeePassLib.dll": {}
+        }
+      },
+      "GroupeBernard.Keepass.Activities.Implementation/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "KeePassLib": "2.30.0"
+        },
+        "compile": {
+          "bin/placeholder/GroupeBernard.Keepass.Activities.Implementation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GroupeBernard.Keepass.Activities.Implementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeePassLib/2.30.0": {
+      "sha512": "Mz1xhQv7gn0HercFMV1+qzwy+zH2EZF9umV/93pB8LSfixrv2gJJEgW9SCtasNZOFl7vGAUrCL+M3ZC1030YUA==",
+      "type": "package",
+      "path": "keepasslib/2.30.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "keepasslib.2.30.0.nupkg.sha512",
+        "keepasslib.nuspec",
+        "lib/KeePassLib.dll",
+        "lib/KeePassLib.xml"
+      ]
+    },
+    "GroupeBernard.Keepass.Activities.Implementation/1.0.0": {
+      "type": "project",
+      "path": "../GroupeBernard.Keepass.Activities/GroupeBernard.Keepass.Activities.csproj",
+      "msbuildProject": "../GroupeBernard.Keepass.Activities/GroupeBernard.Keepass.Activities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "GroupeBernard.Keepass.Activities.Implementation >= 1.0.0",
+      "KeePassLib >= 2.30.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\henryr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj",
+      "projectName": "GroupeBernard.Keepass.Activities",
+      "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\GroupeBernard.Keepass.Activities.Design.csproj",
+      "packagesPath": "C:\\Users\\henryr\\.nuget\\packages\\",
+      "outputPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities.Design\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\.nuget\\NuGet.Config",
+        "C:\\Users\\henryr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\ProgramData\\UiPath\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.org/api/v2/": {},
+        "https://www.myget.org/F/uipath/": {}
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "projectReferences": {
+            "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj": {
+              "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
+              "privateAssets": "all"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "targetAlias": "net461",
+        "dependencies": {
+          "KeePassLib": {
+            "target": "Package",
+            "version": "[2.30.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

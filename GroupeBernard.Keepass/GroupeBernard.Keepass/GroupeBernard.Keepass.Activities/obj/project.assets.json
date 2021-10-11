@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "KeePassLib/2.30.0": {
+        "type": "package",
+        "compile": {
+          "lib/KeePassLib.dll": {}
+        },
+        "runtime": {
+          "lib/KeePassLib.dll": {}
+        }
+      },
+      "GroupeBernard.Keepass/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "compile": {
+          "bin/placeholder/GroupeBernard.Keepass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GroupeBernard.Keepass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeePassLib/2.30.0": {
+      "sha512": "Mz1xhQv7gn0HercFMV1+qzwy+zH2EZF9umV/93pB8LSfixrv2gJJEgW9SCtasNZOFl7vGAUrCL+M3ZC1030YUA==",
+      "type": "package",
+      "path": "keepasslib/2.30.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "keepasslib.2.30.0.nupkg.sha512",
+        "keepasslib.nuspec",
+        "lib/KeePassLib.dll",
+        "lib/KeePassLib.xml"
+      ]
+    },
+    "GroupeBernard.Keepass/1.0.0": {
+      "type": "project",
+      "path": "../GroupeBernard.Keepass/GroupeBernard.Keepass.csproj",
+      "msbuildProject": "../GroupeBernard.Keepass/GroupeBernard.Keepass.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "GroupeBernard.Keepass >= 1.0.0",
+      "KeePassLib >= 2.30.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\henryr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
+      "projectName": "GroupeBernard.Keepass.Activities.Implementation",
+      "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\GroupeBernard.Keepass.Activities.csproj",
+      "packagesPath": "C:\\Users\\henryr\\.nuget\\packages\\",
+      "outputPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.Activities\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\.nuget\\NuGet.Config",
+        "C:\\Users\\henryr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\ProgramData\\UiPath\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.org/api/v2/": {},
+        "https://www.myget.org/F/uipath/": {}
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "projectReferences": {
+            "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj": {
+              "projectPath": "C:\\RPA\\00_Projets\\rpa0000-librairies\\Activities_GB\\Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass\\GroupeBernard.Keepass.csproj",
+              "privateAssets": "all"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "targetAlias": "net461",
+        "dependencies": {
+          "KeePassLib": {
+            "target": "Package",
+            "version": "[2.30.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
